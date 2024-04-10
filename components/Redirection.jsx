@@ -3,7 +3,8 @@ import React from "react";
 
 function Redirection() {
   React.useEffect(() => {
-    window.location.href = "https://www.google.com";
+    window.location.href =
+      "https://www.yelp.com/biz/caliber-contracting-san-diego-2";
   }, []);
   return;
 }
